@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Light Site</title>
-    <link>https://shikigan.github.io/blog2.github.io/categories/</link>
+    <link>https://shikigan.github.io/shikigan2.github.io/categories/</link>
     <description>Recent content in Categories on Light Site</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Apr 2025 20:47:15 +1200</lastBuildDate>
-    <atom:link href="https://shikigan.github.io/blog2.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shikigan.github.io/shikigan2.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
-      <link>https://shikigan.github.io/blog2.github.io/categories/info/</link>
+      <link>https://shikigan.github.io/shikigan2.github.io/categories/info/</link>
       <pubDate>Tue, 15 Apr 2025 20:47:15 +1200</pubDate>
-      <guid>https://shikigan.github.io/blog2.github.io/categories/info/</guid>
+      <guid>https://shikigan.github.io/shikigan2.github.io/categories/info/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>https://shikigan.github.io/blog2.github.io/categories/tech/</link>
+      <link>https://shikigan.github.io/shikigan2.github.io/categories/tech/</link>
       <pubDate>Tue, 15 Apr 2025 20:47:15 +1200</pubDate>
-      <guid>https://shikigan.github.io/blog2.github.io/categories/tech/</guid>
+      <guid>https://shikigan.github.io/shikigan2.github.io/categories/tech/</guid>
       <description></description>
     </item>
   </channel>
